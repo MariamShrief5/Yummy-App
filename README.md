@@ -1,4 +1,4 @@
-# Yummy App 
+# Yummy  
 Yummy App is an online recipe display application designed to help users explore and find recipes easily. The app showcases random recipes, allows searching by meal name or first letter, and notifies users if a recipe isn’t found. With diverse food categories, Yummy App makes discovering delicious recipes a breeze. Built using HTML, CSS, and JavaScript, this app provides a seamless user experience and offers details on a variety of meals.
 
 # Project Description:
