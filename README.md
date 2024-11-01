@@ -21,7 +21,7 @@ Yummy App is a web-based application that introduces users to a world of food an
 #### 3. **API Integration**
    - **Recipe API**: The app uses an external API to dynamically fetch recipe data, including images, instructions, and sources, ensuring the app always has fresh and relevant recipes.
      
-### Example Usage
+# Example Usage
 #### 1. User opens the app and views random recipes on the home screen.
 #### 2. They search for a recipe by typing "pasta" or selecting recipes starting with "P".
 #### 3. The user clicks on a recipe card to view ingredients, instructions, and source.
