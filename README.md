@@ -38,7 +38,7 @@ https://github.com/user-attachments/assets/acb4d5e0-4ab3-416b-a9af-ae8f8cdae63b
 # Screenshots:
 https://drive.google.com/file/d/1myMqOQObP5gCjdpzn-llef2T3x700q86/view?usp=sharing
 # First Page, Variety of Food
-![Screenshot 1](https://drive.google.com/uc?export=view&id=1rUKeOIYQlwGSpJOfVN_4e3-ke3OzW7_)
+![Screenshot 1](https://drive.google.com/uc?export=view&id=1AbVwc5PsIs8ddo6eBxYNVKznWLrNBdYX)
 # Side Bar 
 ![Screenshot 2](https://drive.google.com/uc?export=view&id=1MOLjj0ff9qrS58d0XfzGQjXaP-W90gXf)
 # Instructions and Recipes 
