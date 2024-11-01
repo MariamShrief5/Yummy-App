@@ -36,16 +36,11 @@ Yummy App is a web-based application that introduces users to a world of food an
 https://github.com/user-attachments/assets/acb4d5e0-4ab3-416b-a9af-ae8f8cdae63b
 
 # Screenshots:
-https://drive.google.com/file/d/1myMqOQObP5gCjdpzn-llef2T3x700q86/view?usp=sharing
-# First Page, Variety of Food
-![Screenshot 1](https://drive.google.com/uc?export=view&id=1AbVwc5PsIs8ddo6eBxYNVKznWLrNBdYX)
-# Side Bar 
-![Screenshot 2](https://drive.google.com/uc?export=view&id=1MOLjj0ff9qrS58d0XfzGQjXaP-W90gXf)
 # Instructions and Recipes 
 ![Screenshot 3](https://drive.google.com/uc?export=view&id=1lY_qJapsT0RW9_kYncNlW2iNOO1xzcNz)
 # Search 
 ![Screenshot 4](https://drive.google.com/uc?export=view&id=1JnAygo8B_hFAxGKlhZzyDia679Xath28)
-# Instructions and Recipes 
-![Screenshot 3](https://drive.google.com/uc?export=view&id=1lY_qJapsT0RW9_kYncNlW2iNOO1xzcNz)
+# Contact US
+![Screenshot 3](https://drive.google.com/uc?export=view&id=1y7pdqSTk-tHV4D3cT6DSh0dYwkY8l7qQ)
 
 
