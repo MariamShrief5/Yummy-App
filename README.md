@@ -33,6 +33,7 @@ Yummy App is a web-based application that introduces users to a world of food an
 - JavaScript: For interactivity, API requests, and dynamic recipe loading.
 - API: Retrieves and updates recipe data for the app.
 # Demo:
+https://github.com/user-attachments/assets/acb4d5e0-4ab3-416b-a9af-ae8f8cdae63b
 
 # Screenshots:
 
